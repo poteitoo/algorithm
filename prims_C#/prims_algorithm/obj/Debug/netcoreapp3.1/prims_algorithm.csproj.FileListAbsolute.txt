@@ -1,0 +1,11 @@
+/Users/poteitoo/Desktop/prims_algorithm/prims_algorithm/obj/Debug/netcoreapp3.1/prims_algorithm.csprojAssemblyReference.cache
+/Users/poteitoo/Desktop/prims_algorithm/prims_algorithm/obj/Debug/netcoreapp3.1/prims_algorithm.AssemblyInfoInputs.cache
+/Users/poteitoo/Desktop/prims_algorithm/prims_algorithm/obj/Debug/netcoreapp3.1/prims_algorithm.AssemblyInfo.cs
+/Users/poteitoo/Desktop/prims_algorithm/prims_algorithm/bin/Debug/netcoreapp3.1/prims_algorithm
+/Users/poteitoo/Desktop/prims_algorithm/prims_algorithm/bin/Debug/netcoreapp3.1/prims_algorithm.deps.json
+/Users/poteitoo/Desktop/prims_algorithm/prims_algorithm/bin/Debug/netcoreapp3.1/prims_algorithm.runtimeconfig.json
+/Users/poteitoo/Desktop/prims_algorithm/prims_algorithm/bin/Debug/netcoreapp3.1/prims_algorithm.runtimeconfig.dev.json
+/Users/poteitoo/Desktop/prims_algorithm/prims_algorithm/bin/Debug/netcoreapp3.1/prims_algorithm.dll
+/Users/poteitoo/Desktop/prims_algorithm/prims_algorithm/bin/Debug/netcoreapp3.1/prims_algorithm.pdb
+/Users/poteitoo/Desktop/prims_algorithm/prims_algorithm/obj/Debug/netcoreapp3.1/prims_algorithm.dll
+/Users/poteitoo/Desktop/prims_algorithm/prims_algorithm/obj/Debug/netcoreapp3.1/prims_algorithm.pdb
